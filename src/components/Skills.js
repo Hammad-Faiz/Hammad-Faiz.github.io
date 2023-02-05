@@ -11,7 +11,7 @@ import postgresql from '../assets/skillsImg/postgresql.svg'
 import html5 from '../assets/skillsImg/html5.svg'
 import css3 from '../assets/skillsImg/css3.svg'
 import react from '../assets/skillsImg/react.svg'
-import nodejs from '../assets/skillsImg/nodejs.svg'
+// import nodejs from '../assets/skillsImg/nodejs.svg'
 import rails from '../assets/skillsImg/rails.svg'
 // import mui from '../assets/skillsImg/mui.svg'
 // import pulumi from '../assets/skillsImg/pulumi.svg'
@@ -60,10 +60,10 @@ export const Skills = () => {
             title: "React",
             imgURL: react,
         },
-        {
-            title: "Node",
-            imgURL: nodejs,
-        }, 
+        // {
+        //     title: "Node",
+        //     imgURL: nodejs,
+        // }, 
         {
             title: "Rails",
             imgURL: rails,
