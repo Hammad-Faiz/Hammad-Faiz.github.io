@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.6c88e436.css",
-    "main.js": "/portfolio/static/js/main.f18e9264.js",
+    "main.js": "/portfolio/static/js/main.82486842.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/collab.png": "/portfolio/static/media/collab.1dae278484106315f1bc.png",
     "static/media/Cuisine.png": "/portfolio/static/media/Cuisine.f8c5e5fc1167264fcb25.png",
@@ -22,7 +22,6 @@
     "static/media/python.svg": "/portfolio/static/media/python.af7fb8bab2f10b12cb04731a32fe6015.svg",
     "static/media/ruby.svg": "/portfolio/static/media/ruby.d289f8b44e4f3efb9819cf2491991155.svg",
     "static/media/react.svg": "/portfolio/static/media/react.7c8375868df8c536ab4f2d4078519904.svg",
-    "static/media/nodejs.svg": "/portfolio/static/media/nodejs.93875c5d196422272be4ec4f21cf50e9.svg",
     "static/media/java.svg": "/portfolio/static/media/java.fa3aaa0d9601f02765fd0f91adf5f205.svg",
     "static/media/rails.svg": "/portfolio/static/media/rails.3c437b2534d8fee5bcdd77b786f0a519.svg",
     "static/media/bootstrap.svg": "/portfolio/static/media/bootstrap.4f847473238a0feaae483c8c24c14c27.svg",
@@ -32,11 +31,11 @@
     "static/media/django.svg": "/portfolio/static/media/django.c1ea8b0c07747ebdd9c4da37f0f46d2a.svg",
     "static/media/css3.svg": "/portfolio/static/media/css3.32dd69d420952df1780d2771ab454d4b.svg",
     "main.6c88e436.css.map": "/portfolio/static/css/main.6c88e436.css.map",
-    "main.f18e9264.js.map": "/portfolio/static/js/main.f18e9264.js.map",
+    "main.82486842.js.map": "/portfolio/static/js/main.82486842.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6c88e436.css",
-    "static/js/main.f18e9264.js"
+    "static/js/main.82486842.js"
   ]
 }
