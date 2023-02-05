@@ -13,9 +13,10 @@ import css3 from '../assets/skillsImg/css3.svg'
 import react from '../assets/skillsImg/react.svg'
 import nodejs from '../assets/skillsImg/nodejs.svg'
 import rails from '../assets/skillsImg/rails.svg'
-import mui from '../assets/skillsImg/mui.svg'
-import pulumi from '../assets/skillsImg/pulumi.svg'
-// import django from '../assets/skillsImg/django.svg'
+// import mui from '../assets/skillsImg/mui.svg'
+// import pulumi from '../assets/skillsImg/pulumi.svg'
+import django from '../assets/skillsImg/django.svg'
+import sqlite from '../assets/skillsImg/sqlite.svg'
 
 
 
@@ -68,10 +69,14 @@ export const Skills = () => {
             imgURL: rails,
             
         }, 
-        // {
-        //     title: "Django",
-        //     imageURL: django
-        // },
+        {
+            title: "Django",
+            imgURL: django
+        },
+        {
+            title: "SQL",
+            imgURL: sqlite,
+        }, 
         // {
         //     title: "MUI",
         //     imgURL: mui,
@@ -79,8 +84,7 @@ export const Skills = () => {
         {
             title: "Bootstrap",
             imgURL: bootstrap,
-        }, 
-        
+        },
         {
             title: "AWS",
             imgURL: aws,
