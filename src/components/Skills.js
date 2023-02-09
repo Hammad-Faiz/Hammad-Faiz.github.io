@@ -8,8 +8,8 @@ import bootstrap from '../assets/skillsImg/bootstrap.svg'
 import aws from '../assets/skillsImg/aws.svg'
 import java from '../assets/skillsImg/java.svg'
 import postgresql from '../assets/skillsImg/postgresql.svg'
-import html5 from '../assets/skillsImg/html5.svg'
-import css3 from '../assets/skillsImg/css3.svg'
+// import html5 from '../assets/skillsImg/html5.svg'
+// import css3 from '../assets/skillsImg/css3.svg'
 import react from '../assets/skillsImg/react.svg'
 // import nodejs from '../assets/skillsImg/nodejs.svg'
 import rails from '../assets/skillsImg/rails.svg'
@@ -17,6 +17,7 @@ import rails from '../assets/skillsImg/rails.svg'
 // import pulumi from '../assets/skillsImg/pulumi.svg'
 import django from '../assets/skillsImg/django.svg'
 import sqlite from '../assets/skillsImg/sqlite.svg'
+import linux from '../assets/skillsImg/linux.svg'
 
 
 
@@ -30,6 +31,10 @@ export const Skills = () => {
 
         },
         {
+            title: "Java",
+            imgURL: java,
+        },
+        {
             title: "Javascript",
             imgURL: javascript,
         },
@@ -37,25 +42,38 @@ export const Skills = () => {
             title: "Ruby",
             imgURL: ruby,
         }, 
+        // {
+        //     title: "HTML",
+        //     imgURL: html5,
+        // }, 
+        // {
+        //     title: "CSS",
+        //     imgURL: css3,
+        // }, 
+    ]
+
+    const technologies = [
         {
-            title: "Java",
-            imgURL: java,
+            title: "Django",
+            imgURL: django
+        },
+        {
+            title: "Rails",
+            imgURL: rails,
+            
         },
         {
             title: "SQL",
             imgURL: postgresql,
-        },  
-        {
-            title: "HTML",
-            imgURL: html5,
         }, 
         {
-            title: "CSS",
-            imgURL: css3,
+            title: "SQLite",
+            imgURL: sqlite,
         }, 
-    ]
-
-    const technologies = [
+        {
+            title: "AWS",
+            imgURL: aws,
+        }, 
         {
             title: "React",
             imgURL: react,
@@ -64,19 +82,6 @@ export const Skills = () => {
         //     title: "Node",
         //     imgURL: nodejs,
         // }, 
-        {
-            title: "Rails",
-            imgURL: rails,
-            
-        }, 
-        {
-            title: "Django",
-            imgURL: django
-        },
-        {
-            title: "SQL",
-            imgURL: sqlite,
-        }, 
         // {
         //     title: "MUI",
         //     imgURL: mui,
@@ -86,9 +91,9 @@ export const Skills = () => {
             imgURL: bootstrap,
         },
         {
-            title: "AWS",
-            imgURL: aws,
-        }, 
+            title: "Linux",
+            imgURL: linux,
+        },
         // {
         //     title: "Pulumi",
         //     imgURL: pulumi,

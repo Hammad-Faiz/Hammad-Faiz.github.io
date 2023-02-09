@@ -16,7 +16,7 @@ export const Projects = () => {
         {
             title: "Crypto Trading Platform",
             imgURL: FlyptoIMG,
-            stack: "Tech Stack: React, Javascript, MUI, Ruby, Rails, REST, Api's",
+            stack: "Tech Stack: Ruby-on-Rails, React, Javascript, MUI, REST, Api's",
             description: "Cryptocurrency trading platform with live data, graphs, and trading options.",
             github: "https://github.com/tcloma/Flypto-Crypto",
             demo: "https://youtu.be/zczM6F1afwA"
@@ -32,7 +32,7 @@ export const Projects = () => {
         {
             title: "Recipe Guide Application",
             imgURL: CuisineIMG,
-            stack: "Tech Stack: React, Javascript, Spoonacular Api's Bootstrap, HTML, CSS",
+            stack: "Tech Stack: React, Javascript, Spoonacular Api's, Bootstrap, HTML, CSS",
             description: "Recipe Guide application with instructions, ingredients, summary, and search bar for each cuisine",
             github: "https://github.com/Hammad-Faiz/React-Project",
             demo: "https://youtu.be/qE-C4HeX-Ss"

@@ -12,11 +12,10 @@ export const Banner = () => {
                         <span className="name">{myName}</span>
                         <h1> Software Engineer </h1> 
                         <p> 
-                            Talented Junior Software Engineer with a proven ability to work collaboratively with 
-                            customers, team members, and project leaders to deliver software projects within 
-                            timelines. Adept at working with a wide range of front- and back-end technologies to 
-                            produce and evaluate code, currently learning AWS, demonstrating a commitment to 
-                            professional development, and expanding knowledge in cloud computing.
+                            Software Engineer with a proven ability to work collaboratively with customers, team 
+                            members, and project leaders to deliver software projects within timelines. Adept at 
+                            working with a wide range of front- and back-end technologies. Transitioned from College
+                            to Bootcamp for hands-on experience with building applications.
                         </p>
                     </Col>
                     <Col xs={12} md={6} xl={5}>
