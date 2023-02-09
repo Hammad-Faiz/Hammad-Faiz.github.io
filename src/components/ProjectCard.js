@@ -1,8 +1,8 @@
 import { Button, Card, Col } from "react-bootstrap"
-import collabIMG from '../assets/projectsImg/collab.png'
-import itTakesAVillageIMG from '../assets/projectsImg/itTakesAVillage.jpeg'
-import tinderFureverIMG from '../assets/projectsImg/tinderFurever.jpeg'
-import portfolioIMG from '../assets/projectsImg/portfolio.jpeg'
+// import collabIMG from '../assets/projectsImg/collab.png'
+// import itTakesAVillageIMG from '../assets/projectsImg/itTakesAVillage.jpeg'
+// import tinderFureverIMG from '../assets/projectsImg/tinderFurever.jpeg'
+// import portfolioIMG from '../assets/projectsImg/portfolio.jpeg'
 
 export const ProjectCard = ({title,imgURL,stack,description,github,demo}) => {
 
