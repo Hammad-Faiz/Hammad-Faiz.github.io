@@ -18,6 +18,7 @@ import rails from '../assets/skillsImg/rails.svg'
 import django from '../assets/skillsImg/django.svg'
 import sqlite from '../assets/skillsImg/sqlite.svg'
 import linux from '../assets/skillsImg/linux.svg'
+import github from '../assets/skillsImg/github.svg'
 
 
 
@@ -89,6 +90,10 @@ export const Skills = () => {
         {
             title: "Bootstrap",
             imgURL: bootstrap,
+        },
+        {
+            title: "GITHUB",
+            imgURL: github,
         },
         {
             title: "Linux",
