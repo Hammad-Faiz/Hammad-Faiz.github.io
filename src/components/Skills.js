@@ -5,7 +5,7 @@ import python from '../assets/skillsImg/python.svg'
 import javascript from '../assets/skillsImg/javascript.svg'
 import ruby from '../assets/skillsImg/ruby.svg'
 import bootstrap from '../assets/skillsImg/bootstrap.svg'
-import aws from '../assets/skillsImg/aws.svg'
+// import aws from '../assets/skillsImg/aws.svg'
 import java from '../assets/skillsImg/java.svg'
 import postgresql from '../assets/skillsImg/postgresql.svg'
 // import html5 from '../assets/skillsImg/html5.svg'
@@ -70,10 +70,10 @@ export const Skills = () => {
             title: "SQLite",
             imgURL: sqlite,
         }, 
-        {
-            title: "AWS",
-            imgURL: aws,
-        }, 
+        // {
+        //     title: "AWS",
+        //     imgURL: aws,
+        // }, 
         {
             title: "React",
             imgURL: react,
