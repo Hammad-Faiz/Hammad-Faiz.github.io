@@ -1,4 +1,3 @@
-# My Portfolio Site https://hammad-faiz.github.io/portfolio/
 Portfolio site showcasing my software development skills, projects, and resume
 -->sx <--
 
